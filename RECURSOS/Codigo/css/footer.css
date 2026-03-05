@@ -103,7 +103,7 @@ footer i {
     background-color:aquamarine;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 375px) and (orientation: portrait){
     main{
         padding-top: 15%;
     }
@@ -142,4 +142,5 @@ footer i {
     footer i{
         font-size: 5vw;
     }
+
 }
