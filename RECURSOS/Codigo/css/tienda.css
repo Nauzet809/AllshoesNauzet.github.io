@@ -131,7 +131,7 @@ main p{
 
 @media (orientation: portrait){
     main{
-        flex-direction: column;
+        flex-flow: column nowrap;
     }
 
     .tienda-contenido{
@@ -158,4 +158,5 @@ main p{
 
 
 }
+
 
