@@ -1,4 +1,4 @@
-URL:
+URL:  https://nauzet809.github.io/AllshoesNauzet.github.io/
 
 La página web consta de cuatro páginas: inicio, tienda, nosotros y contacto, todas con header, main y footer.
 
@@ -15,3 +15,4 @@ El main de la página nosotros se dispone con dos divisiones, una para el títul
 El main de la página contacto dispone de dos secciones al igual que la página nosotros sienda una para el título y otra para lo demás, en esta segunda tenemos otras dos secciones, en la que en la primera se almacena un segundo título, subtitulo, párrafo, subtitulo, correo de la tienda, subtítulo y una sección circular que contiene el logo de la tienda en el centro del círculo y las imágenes de las redes sociales formando un pentágono alrededor del mismo. Para la segunda sección se presenta un formulario para rellenar con caja para el nombre, correo, teléfono, tipo de consulta, un mensaje de texto, una sección con marcador, texto y enlace a las condiciones y el botón de enviar, el cual presenta su propio icono.
 
 Todo lo nombrado anteriormente dispone de una función que permite mantener una estructura en la página aún cuando el espacio disponible sea reducido, cambiando la mayoría de elementos que se encuentran en fila en columnas y expande el ancho es estas secciones para adaptarse al de la página, además de adaptar el texto para que permanezca legible.
+
