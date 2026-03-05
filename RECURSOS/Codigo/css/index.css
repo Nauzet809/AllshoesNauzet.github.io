@@ -147,14 +147,14 @@ img{
     }
 
     #contenido-animacion h2{
-        font-size: 5vh;
+        font-size: 5vw;
         margin: 0%;
         margin-bottom: 2%;
     }
 
 
     #contenido-animacion .grisaceo{
-        font-size: 3vh;
+        font-size: 3vw;
     }
 
     #contenido-animacion .descripcion{
@@ -209,4 +209,5 @@ img{
     }
 
 }
+
 
