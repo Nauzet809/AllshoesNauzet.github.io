@@ -139,7 +139,7 @@ img{
     height: 20vh;
 }
 
-@media (max-width: 375px) and (orientation: portrait){
+@media (orientation: portrait){
 
     #contenido-animacion{
         height: 40vw;
@@ -209,3 +209,4 @@ img{
     }
 
 }
+
