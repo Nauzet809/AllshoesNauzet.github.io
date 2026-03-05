@@ -85,7 +85,7 @@ img{
     transition: 1s;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 375px) and (orientation: portrait){
     *{
         min-width: none;
     }
@@ -120,6 +120,7 @@ img{
     #nosotros-logo p{
         font-size: 5vw;
     }
+
 
 
 }
