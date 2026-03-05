@@ -163,6 +163,8 @@ img{
 
     #recorrido-animacion{
         min-width: fit-content;
+
+        animation: recorridoMovil 15s infinite linear;
     }
 
     .animacion{
@@ -206,9 +208,10 @@ img{
         width: 20vw;
     }
 
-    @keyframes recorrido {
+    @keyframes recorridoMovil {
         from { transform: translateX(0);}
         to {transform: translateX(-66.6%);}
     }
 
 }
+
